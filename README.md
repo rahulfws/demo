@@ -1,2 +1,2 @@
 # demo
-git and gitHUB
+git and gitHUB (author)
